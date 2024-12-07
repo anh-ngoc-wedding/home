@@ -224,6 +224,7 @@ input[type="radio"] {
 .toast {
     visibility: hidden;
     color: #fff;
+    width: 80vw;
     text-align: center;
     border-radius: 2px;
     position: fixed;
