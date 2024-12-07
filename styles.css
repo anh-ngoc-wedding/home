@@ -194,7 +194,8 @@ body {
 }
 
 input[type="radio"] {
-    transform: scale(1.5);
+    width: 27px;
+    height: 27px;
     /* Tăng kích thước lên 1.5 lần */
     margin: 10px;
     /* Thêm khoảng cách xung quanh */
